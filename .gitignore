@@ -1,0 +1,14 @@
+# .gitignore
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# System
+.DS_Store
